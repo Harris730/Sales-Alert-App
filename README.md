@@ -1,16 +1,47 @@
-# sales_alert_app
+# Sales-Alert-App
 
-A new Flutter project.
 
-## Getting Started
+## Overview
+This repository contains the source code and related documentation for an E-Commerce mobile application. The application is designed to provide users with a  shopping experience, allowing them to browse and purchase products.Also contain seller module which helps him to manage store.
 
-This project is a starting point for a Flutter application.
+## Features
+- User Registration and Authentication: Users can create accounts, log in, and maintain their profiles.
+- Product Catalog: Display a variety of products in an organized manner, with search and filter options for easy navigation.
+- Product Details: Provide detailed information about each product, including descriptions, images, pricing, and reviews.
+- Shopping Cart: Enable users to add items to their cart, modify quantities, and proceed to checkout.
+- Order Management: Allow users to view their order history, track shipments, and manage returns if applicable.
+- Notifications: Send relevant notifications to users regarding order status updates, promotions, and other relevant information and for specific product and brand.
+- Wishlist: Enable users to save products for future reference or purchase.
+- Price compare: Allows user to compare two product features.
+- Ratings and Reviews: Allow users to rate and review products, contributing to the overall shopping experience.
+- Inventory: Enables user to add,delete and manage stock.
+- Discount: Allows seller to add sale to products which push notifications.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+- Programming Language: [Dart]
+- Frameworks and Libraries: [Flutter]
+- Database: [Firestore]
+- APIs: [Firebase Cloud Messaging]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup and Installation
+To set up and run the E-Commerce mobile application locally, follow these steps:
+
+1. Clone the repository: `git clone`
+2. Install the necessary dependencies: `flutter doctor`.
+3. Configure the database connection.
+4. Build and run the application using the appropriate commands.
+5. Access the application on your mobile device or an emulator.
+
+## Contribution Guidelines
+If you would like to contribute to this project, please follow the guidelines below:
+
+1. Fork the repository and create a new branch for your feature or bug fix.
+2. Make your changes and ensure the code passes all tests.
+3. Commit your changes and provide a descriptive commit message.
+4. Push your branch to your forked repository.
+5. Submit a pull request with a detailed explanation of your changes.
+
+
+## Contact
+For any inquiries or feedback, please contact harrisimran78@gmail.com .

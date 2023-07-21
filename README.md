@@ -27,8 +27,8 @@ This repository contains the source code and related documentation for an E-Comm
 ## Setup and Installation
 To set up and run the E-Commerce mobile application locally, follow these steps:
 
-1. Clone the repository: `git clone`
-2. Install the necessary dependencies: `flutter doctor`.
+1. Clone the repository: `https://github.com/Harris730/Sales-Alert-App.git`
+2. Install the necessary dependencies: `riverpod`.
 3. Configure the database connection.
 4. Build and run the application using the appropriate commands.
 5. Access the application on your mobile device or an emulator.

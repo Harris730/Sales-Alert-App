@@ -4,11 +4,9 @@
 ## Overview
 This repository contains the source code and related documentation for an E-Commerce mobile application. The application is designed to provide users with a  shopping experience, allowing them to browse and purchase products.Also contain seller module which helps him to manage store.
 
-- ![add prod](https://github.com/Harris730/Sales-Alert-App/assets/128912747/c7fcecbf-f8b1-4792-a42d-ba8493f0ed24)
-- ![home (ss)](https://github.com/Harris730/Sales-Alert-App/assets/128912747/a7ccea73-5eff-4a1e-981d-2b50d1436e8f)
-- ![compare](https://github.com/Harris730/Sales-Alert-App/assets/128912747/524fa13f-e2ba-4fbf-9463-c4becf422e22)
-- ![product](https://github.com/Harris730/Sales-Alert-App/assets/128912747/e3946ddc-a6dc-4af2-afc9-eea3fb9084fe)
-- ![login (ss)](https://github.com/Harris730/Sales-Alert-App/assets/128912747/028cf8cf-cf5d-4fbb-8e57-b4f205c6fe02)
+![add prod](https://github.com/Harris730/Sales-Alert-App/assets/128912747/c7fcecbf-f8b1-4792-a42d-ba8493f0ed24)   ![home (ss)](https://github.com/Harris730/Sales-Alert-App/assets/128912747/a7ccea73-5eff-4a1e-981d-2b50d1436e8f)
+ ![compare](https://github.com/Harris730/Sales-Alert-App/assets/128912747/524fa13f-e2ba-4fbf-9463-c4becf422e22) ![product](https://github.com/Harris730/Sales-Alert-App/assets/128912747/e3946ddc-a6dc-4af2-afc9-eea3fb9084fe)
+![login (ss)](https://github.com/Harris730/Sales-Alert-App/assets/128912747/028cf8cf-cf5d-4fbb-8e57-b4f205c6fe02)
 
 
 
